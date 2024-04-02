@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-Hello! I'm a passionate web developer with one year of experience in the field. My focus is on web application development, landing pages, and e-commerce (especially through the TiendaNube platform).
+Hello! I'm a passionate web developer with two years of experience in the field. My focus is on web application development, landing pages, and e-commerce (especially through the TiendaNube platform).
 
 In my day-to-day work, I use technologies like Next.js, TypeScript, Tailwind CSS, Framer Motion, Material-UI, and Styled Components, among others. My goal is to create engaging, interactive, and performance-optimized web experiences.
 

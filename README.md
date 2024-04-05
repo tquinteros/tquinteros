@@ -16,7 +16,9 @@ In my day-to-day work, I use technologies like Next.js, TypeScript, Tailwind CSS
 Currently, I'm part of the development team at ZX, where we concentrate on creating innovative web applications. You can learn more about our projects at https://www.zetaequis.com/.
 
 My journey into the world of web development began with a solid foundation, having completed a year of programming studies at UTN. Then, for my personal reasons, I decided to embark on a frontend career at CoderHouse, where I have been expanding my knowledge and skills.  
-  
+
+Take a look to my portfolio:
+https://tquinteros.vercel.app/
 
 <br/>  
 
